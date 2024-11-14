@@ -1,0 +1,12 @@
+print("list")
+l1=[1,3,"abc",5,6,7,2.3]
+print(l1)
+print("directory")
+d1={"a":134,"b":266,"c":342}
+print(d1)
+print("tuple")
+t1=(10,20,30,40,50)
+print(t1)
+print("set")
+s1={10,20,30,40,60}
+print(s1)
